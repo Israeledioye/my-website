@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+fieldset{
+    width: 50vw;
+    margin: 3rem auto;
+    padding: 2rem;
+}
+
+fieldset label{
+    display: block;
+}
+
+fieldset input, button{
+    width: 100%;
+    padding: 1rem;
+}
+
+fieldset button{
+    background-color: #0000f0;
+    color: #fff;
+    font-weight: bold;
+    margin-top: 0.5rem;
+}
